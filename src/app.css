@@ -1,0 +1,9 @@
+.html, body, .root {
+    height: 100%;
+  }
+
+.catButton{
+    width:1600px;
+    height:1200px;
+    background-image: url("./photos/hKT9LzM-generate-button-clipart.jpg");
+}
